@@ -486,6 +486,9 @@
             { id: 3, name: 'Caramel Macchiato', category: 'kopi', price: 32000, desc: 'Perpaduan espresso, sirup vanila, susu gurih, dan siraman sirup karamel.', image: 'https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=600&auto=format&fit=crop' },
             { id: 4, name: 'Matcha Latte', category: 'non-kopi', price: 28000, desc: 'Bubuk matcha autentik Uji Jepang dipadu dengan susu hangat lembut.', image: 'https://images.unsplash.com/photo-1536256263959-770b48d82b0a?q=80&w=600&auto=format&fit=crop' },
             { id: 5, name: 'Croissant Butter', category: 'makanan', price: 22000, desc: 'Pastry khas Prancis yang berlapis renyah dengan mentega premium.', image: 'https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=600&auto=format&fit=crop' },
+            { id: 5, name: 'Risoles', category: 'makanan', price: 22000, desc: 'Pastry khas Prancis yang berlapis renyah dengan mentega premium.', image: 'https://asset.kompas.com/crops/2CSQSvAyi0WMr7hwcVfbA5TOLtA=/205x17:858x453/1200x800/data/photo/2021/07/13/60ed5b53cf277.jpg?q=80&w=600&auto=format&fit=crop' },
+
+
             { id: 6, name: 'Roti Bakar Bandung', category: 'makanan', price: 24000, desc: 'Roti tebal dengan topping keju melimpah dan cokelat lumer.', image: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=600&auto=format&fit=crop' },
             { id: 7, name: 'French Fries Truffle', category: 'makanan', price: 26000, desc: 'Kentang goreng renyah dengan aroma minyak truffle & taburan keju parmesan.', image: 'https://images.unsplash.com/photo-1576107232684-1279f390859f?q=80&w=600&auto=format&fit=crop' },
             { id: 8, name: 'Red Velvet Cake', category: 'makanan', price: 30000, desc: 'Kue red velvet lembut dengan lapisan cream cheese gurih manis.', image: 'https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?q=80&w=600&auto=format&fit=crop' }
